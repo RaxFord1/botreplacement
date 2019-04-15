@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 from telebot.types import Message
 
-TOKEN = "725121974:AAHZMVMJbSh7GuqSTM4hZ1RMRL7Q6X1EbWk"
+TOKEN = ""
 
 START_MESSAGE = "Привет, я представляю интересы Дмитрия!\n Что-бы узнать список команд, введи /help."
 HELP_MESSAGE = "Ну короче кто-то слишком ленивый что бы это заполнять!"
